@@ -1,0 +1,15 @@
+{ 
+    "config": {
+        "color": "Random"
+    },
+
+    "slash": {
+        "guild_id": "id do seu servidor"
+    },
+
+    "emoji": {
+        "sim": "✔",
+        "nao": "❌"
+    }
+
+}
