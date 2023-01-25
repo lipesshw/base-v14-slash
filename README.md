@@ -19,8 +19,11 @@ npm install
 **Como configurar?**
 
 No arquivo `.env.example` remove o `.example` e deixe apenas o `.env`
+
 Na `.env` adicione o token do seu bot e coloque a url do `mongodb`
+
 Na `bot.json` altere o id em `guild_id`
+
 Para alterar o id do canal de boas-vidas, vá até em `Eventos > Client > guildMemberAdd` e altere os ids.
 
 Depois digite o comando:
