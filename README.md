@@ -31,7 +31,7 @@ node index.js
 
 ![](https://cdn.discordapp.com/attachments/1067563306585432144/1067616199615205406/image.png)
 
-![](https://cdn.discordapp.com/attachments/1067573174969053184/1067617487530762320/image2.png)
+![](https://cdn.discordapp.com/attachments/1067599408750919790/1067619147153944708/image2.PNG)
 
 # Criador 
 **O autor original é o [lipesshw](https://github.com/lipesshw).**
